@@ -28,7 +28,7 @@
 
 ### 📊 Stats
 
-<p align="left" [![Jeffrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeffreyBekker&show_icons=true&theme=gruvbox) </p>
+[![Jeffrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeffreyBekker&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=JeffreyBekker&theme=gruvbox&border_radius=4.5) -->
 
