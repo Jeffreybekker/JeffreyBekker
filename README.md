@@ -21,8 +21,7 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="Insomnia" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" />
-          
-          
+
 <br />
 
 <hr>
@@ -34,3 +33,4 @@
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=JeffreyBekker&theme=gruvbox&border_radius=4.5) -->
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffreyBekker&hide=python,django,css,html&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
