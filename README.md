@@ -33,4 +33,4 @@
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=JeffreyBekker&theme=gruvbox&border_radius=4.5) -->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffreyBekker&hide=python,django,css,html&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffreyBekker&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
