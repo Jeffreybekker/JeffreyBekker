@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jeffrey Bekker</h1>
 <hr>
-<h4>I'm an aspiring Python Django Developer. I love building clean, scalable and responsive web apps.</h4>
+<h4>I'm an aspiring Python Django Developer. I love building clean, scalable and responsive back-end applications.</h4>
 <hr>
 🔭 I’m currently working on a more advanced project where I build APIs and implement plenty of useful functionalities<br>
-🤝🏻 I’m looking to collaborate with a company where I can apply my skills and can learn more about Back-End Development, and perhaps Front-End!<br>
+🤝🏻 I’m looking to collaborate with a company where I can apply my skills and can learn more about Back-End Development<br>
 🌱 I’m currently learning APIs on a deeper level. After that, I'll be focussing on using MySQL.<br>
 👨‍💻 Furthermore, I'd like to learn more about Postman (currently I'm using Insomnia), HTML, CSS and Javascript.<br>
 
