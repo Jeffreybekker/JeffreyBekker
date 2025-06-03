@@ -19,7 +19,7 @@
 <img align="left" alt="Insomnia" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original-wordmark.svg" />
 <img align="left" alt="Insomnia" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
 
-<br />
+<br>
 <hr>
 
 ### 📊 Stats
