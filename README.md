@@ -2,11 +2,9 @@
 <hr>
 <h4>I'm an aspiring Python Django Developer. I love building clean, scalable and responsive back-end applications.</h4>
 <hr>
-🔭 I’m currently working on a more advanced project where I build APIs and implement plenty of useful functionalities<br>
+🔭 I'm currently working on a project that sends me automatically an email when a friend of family member has it's birthday or wedding jubileum. Now I'll never forget their birthday! This will be made with Python and PostgreSQL database.<br>
 🤝🏻 I’m looking to collaborate with a company where I can apply my skills and can learn more about Back-End Development<br>
-🌱 I’m currently learning APIs on a deeper level. After that, I'll be focussing on using MySQL.<br>
-👨‍💻 Furthermore, I'd like to learn more about Postman (currently I'm using Insomnia), HTML, CSS and Javascript.<br>
-
+🌱 At this moment I just want to build more usefull projects where I can apply my skills. Later I'd like to learn more about CI/CD.<br>
 <hr>
 
 ### 🧰 Languages, Frameworks and Tools
